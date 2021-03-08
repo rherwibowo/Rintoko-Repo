@@ -1,0 +1,21 @@
++ Utilities
+- users
+- user group
+- group access
+
+
++ Penawaran
+
++ Materials
+- Permintaan
+- Pembelian
+- Penerimaan
+- Stocks
+
++ Proyek
+- RAB
+
++ Status
+- Pembelian Materials
+- Progress Proyek
+- Progress Pembayaran
